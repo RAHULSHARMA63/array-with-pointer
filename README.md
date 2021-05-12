@@ -1,0 +1,1 @@
+# array-with-pointer
